@@ -1,0 +1,18 @@
+.boxes{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 5rem;
+    width: fit-content;
+    
+}
+
+.box{
+    width: 70px;
+    height: 70px;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-left: 1rem;
+    cursor: pointer;
+    border: 2px solid gray;
+}
